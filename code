@@ -3,5 +3,7 @@
 void main()
 {
 printf ("hello india !");
+printf("hello world ");
+printf("hello sir")
 getch();
 }
